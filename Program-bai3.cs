@@ -10,7 +10,7 @@ namespace TechMartProductManager
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormBai2()); // Chỉ định chạy Form Bài 2
+            Application.Run(new FormBai3());
         }
     }
 }
