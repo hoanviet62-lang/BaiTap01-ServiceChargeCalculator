@@ -1,34 +1,36 @@
-# BÀI TẬP TỔNG HỢP WINDOWS FORMS (C#)
+# BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
-**Họ và tên:** Bùi Lê Hoàn  
-**Tài khoản GitHub:** hoanviet62-lang  
-**Môn học:** Lập trình Windows Forms  
-**Repository:** [https://github.com/hoanviet62-lang/BaiTap01-ServiceChargeCalculator](https://github.com/hoanviet62-lang/BaiTap01-ServiceChargeCalculator)  
+## THÔNG TIN SINH VIÊN
+- **Họ và tên:** Bùi Lê Hoàn
+- **Mã số sinh viên:** 24810320040
+- **Lớp:** D19QTANM1
+- **Tên môn học:** Lập trình C# / Windows Forms
+- **Tên bài tập:** Bài tập tổng hợp Windows Forms (Bài 1 - Bài 5)
 
 ---
 
-## 📁 Cấu trúc thư mục dự án
+## CẤU TRÚC THƯ MỤC DỰ ÁN
 
 ```text
 BaiTap01-ServiceChargeCalculator/
 ├── screenshots/
-│   ├── Bai1/
+│   ├── bai1/
 │   │   ├── main_ui.png
 │   │   ├── execution_result.png
 │   │   └── validation_error.png
-│   ├── Bai2/
+│   ├── bai2/
 │   │   ├── main_ui.png
 │   │   ├── execution_result.png
 │   │   └── validation_error.png
-│   ├── Bai3/
+│   ├── bai3/
 │   │   ├── main_ui.png
 │   │   ├── execution_result.png
 │   │   └── validation_error.png
-│   ├── Bai4/
+│   ├── bai4/
 │   │   ├── main_ui.png
 │   │   ├── execution_result.png
 │   │   └── validation_error.png
-│   └── Bai5/
+│   └── bai5/
 │       ├── main_ui.png
 │       ├── execution_result.png
 │       └── validation_error.png
@@ -37,4 +39,5 @@ BaiTap01-ServiceChargeCalculator/
 ├── bai3.cs
 ├── bai4.cs
 ├── bai5.cs
+├── Program.cs
 └── README.md
